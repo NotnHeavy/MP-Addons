@@ -1,0 +1,17 @@
+"Games"
+{
+    "#default"
+    {
+        "Offsets"
+        {
+            "OSType"
+            {
+                "windows"   "1"
+                "windows64" "2"
+                
+                "linux"     "3"
+                "linux6"    "4"
+            }
+        }
+    }
+}
